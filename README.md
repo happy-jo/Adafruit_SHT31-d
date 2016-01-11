@@ -8,7 +8,7 @@ Feel free to us these at will
 
 Change Log:
 Imported code from https://github.com/jaques.
-Modified "sht31.py" to change values from (XX>XXXXXXXXXX) to (XX.XX) using "round(var, 2)
+Modified "sht31.py" to change values from (XX.XXXXXXXXXX) to (XX.XX) using "round(var, 2)
 Added formula to change "temperature" from Celsius to fahrenheit (temperature * 9/5.0 + 32)
 Renamed file to "sht31_mod.py"
 
